@@ -1,0 +1,23 @@
+.content{
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text h2{
+  color: var(--black)
+}
+
+.boxIcon{
+  width: 90px;
+  height: 90px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* background-color: var(--green); */
+  border-radius: 5px;
+}

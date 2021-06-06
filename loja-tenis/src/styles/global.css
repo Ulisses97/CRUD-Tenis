@@ -1,0 +1,45 @@
+*{
+  font-family: 'Inter', sans-serif !important;
+}
+
+div{
+  margin: 0;
+}
+
+:root{
+  --background: #F2F3F5;
+  --text: #7C7C7C;
+  --textButton: #FFF;
+  --textField: #DDD;
+  --green: #4CD62B;
+  --blue: #2F80ED;
+  --orange: #F2994A;
+  --red: #E83F5B;
+  --black: rgb(36, 35, 35);
+}
+
+body{
+  background-color: var(--background);
+}
+
+.green{ background-color: var(--green); }
+.blue{ background-color: var(--blue); }
+.orange{ background-color: var(--orange); }
+.red{ background-color: var(--red); }
+.black{ background-color: var(--black); }
+
+#root{
+  width: 100vw;
+  max-width: 80%;
+  margin: 10% auto;
+}
+
+.container{
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  margin: 0;
+  padding: 0;
+}
