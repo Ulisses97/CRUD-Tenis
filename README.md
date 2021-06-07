@@ -3,17 +3,30 @@
    <img width="60" src="https://images.emojiterra.com/twitter/v13.0/512px/1f45f.png"/>       
      Crud Loja de Tenis - Back-end e Front-end </h1> 
   
-  <p>Print Aplicação</p>
- <div>
-   <img width="600" src="./prints/rota1.png"/>
-   <img width="600" src="./prints/rota2.png"/>
-   <img width="600" src="./prints/rota3.png"/>
-   <img width="600" src="./prints/rota4.png"/>
-   <img width="600" src="./prints/rota5.png"/>
-  </div><
+ <p>Print da Interface</p>
+   <img width="800" src="./prints/interface.png"/>
+  
+ <p>Prints da interface</p>
+ <div float="center">
+   <img width="400" src="./prints/front1.png"/>
+   <img width="400" src="./prints/front2.png"/>
+   <img width="400" src="./prints/front3.png"/>
+   <img width="400" src="./prints/front4.png"/>
+  </div>
+  
+   <p>Print back-end</p>
+ <div float="center">
+   <img width="400" src="./prints/rota1.png"/>
+   <img width="400" src="./prints/rota2.png"/>
+   <img width="400" src="./prints/rota3.png"/>
+   <img width="400" src="./prints/rota4.png"/>
+   <img width="400" src="./prints/rota5.png"/>
+  </div>
 </div>
+</div>
+  
 
-<div>
+
   
 
 
@@ -49,16 +62,29 @@
 <div class="highlight highlight-source-shell"><pre>
 
 <span class="pl-c"><span class="pl-c">#</span> Clone o repositorio</span>
-$ git clone https://github.com/Ulisses97/Previsao-do-Tempo.git
+$ git clone https://github.com/Ulisses97/CRUD-Tenis.git
 
-<span class="pl-c"><span class="pl-c">#</span> Puxe o repositorio </span>
-$ <span class="pl-c1">cd</span> Previsao do Tempo
+<span class="pl-c"><span class="pl-c">#</span> Entre no repositorio </span>
+$ <span class="pl-c1">cd</span> CRUD-Tenis
+
+<span class="pl-c"><span class="pl-c">#</span> Primeiro instale as dependencias do back-end, </span>
+$ <span class="pl-c1">cd</span> api
 
 <span class="pl-c"><span class="pl-c">#</span> Instale as dependência</span>
-$ yarn install
+$ npm install ou utilize yarn
 
-<span class="pl-c"><span class="pl-c">#</span> Execute o projeto</span>
+<span class="pl-c"><span class="pl-c">#</span> Agore instale as dependencias do front-end, </span>
+$ <span class="pl-c1">cd</span> loja-tenis
+
+<span class="pl-c"><span class="pl-c">#</span> Instale as dependência</span>
+$ npm install ou utilize yarn
+
+<span class="pl-c"><span class="pl-c">#</span> Execute o back-end</span>
+$ npm start
+
+<span class="pl-c"><span class="pl-c">#</span> Execute o front-end</span>
 $ yarn start
+
 </div>
 
 <footer><p>Feito com o ♥ por <a href="https://www.instagram.com/ulisses.brandao/">Ulisses Brandão</a>👋</p> </br>
