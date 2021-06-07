@@ -54,7 +54,7 @@
 
 <div>
 <h1>📝Observações</h1>
-<p>Como a queria fazer uma API simples para utilizar no front-end. Utilizei um banco de dados simples, salvando em JSON</p>
+<p>Como eu queria fazer uma API simples para utilizar no front-end. Utilizei um banco de dados simples, salvando apenas em JSON</p>
  </div>
  
 <div>
