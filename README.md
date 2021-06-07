@@ -40,7 +40,7 @@
 - ✔️ Javascript </br>
 - ✔️ NodeJs </br>
 - ✔️ Express </br>
-- ✔️ Mongoose </br>
+- ✔️ Nodemon </br>
 - ✔️ JSON </br>
 <h2>Front End</h2>
 - ✔️ Javascript </br>
